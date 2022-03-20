@@ -1,22 +1,24 @@
 <p align="center">
-  <a href="https://github.com/gytxtx/chaoshiyami"><img src="https://github.com/gytxtx/chaoshiyami/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
 </p>
 <div align="center">
 
-# chaoshiyami
+# EatKano
 
-网页小游戏
+_🦌 网页小游戏 🥛_
 
 </div>
 
 
 ## 简介
 
-小游戏：超市小雅米
+小游戏：吃掉小鹿乃
 
-[Y雅米Mb站](https://space.bilibili.com/284572130)
+[鹿乃b站](https://space.bilibili.com/316381099)
 |
-[Github Pages](https://github.com/gytxtx/chaoshiyami)
+[线上版本](https://xingye.me/game/eatkano/index.php)
+|
+[Github Pages](https://arcxingye.github.io/EatKano/index.html)
 
 ## 可选功能
 
